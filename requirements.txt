@@ -1,0 +1,3 @@
+graphviz
+git+https://github.com/grockious/deepsynth.git
+numpy
